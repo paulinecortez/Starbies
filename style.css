@@ -75,7 +75,7 @@ h4 {
     align-items: center;
     max-height: 80px;
     width: 100vw;
-    background-color: #44301d;
+    background-color: #9e3623;
     z-index: 1000;
     position: fixed;
     top: 0;
@@ -88,7 +88,7 @@ h4 {
     align-items: center;
     max-height: 80px;
     width: 100vw;
-    background-color: #44301d;
+    background-color: #9e3623;
     z-index: 1000;
     position: sticky;
     top: 0;
