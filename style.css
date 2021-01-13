@@ -202,7 +202,9 @@ h4 {
 .PDecsription p {
     padding-top: 50px;
 }
- <footer>
-    <h2> Digital Espresso </h2>
-    <h3> <i> Contact us at coffee@gmail.com </i> </h3>
-  </footer>
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px 0px;
+    background-color: #8A1214;
