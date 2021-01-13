@@ -62,12 +62,6 @@ h4 {
     border-style:solid;
 }
 
-.IndexButton:hover{
-    background-color:#d1c9c2;
-    border-color:#403830;
-    cursor: pointer;
-}
-
 .HeaderUpL {
     display: flex;
     flex-direction: row;
