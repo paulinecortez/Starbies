@@ -1,8 +1,8 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: 'Superclarendon';
     color: #424242;
+    font-family: 'Superclarendon';
     font-size: 14;
 }
 
@@ -163,7 +163,6 @@ h4 {
     box-shadow: 0px 5px 10px rgba(49,48,51,0.1);
     border-radius: 8px;
     overflow: hidden;
-    transition: transform 0.2s ease-out 0.2s;
 }
 .Griddie {
 
